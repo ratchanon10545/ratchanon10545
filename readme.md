@@ -3,6 +3,7 @@
 - 😄 My name is: yourname ...
 - ⚡ Student id: ...
 - 🔭 I'm currently studying on Faculty of Engineering.
+-  my favorite subject:Math
 
 ## Developer Tech
 
