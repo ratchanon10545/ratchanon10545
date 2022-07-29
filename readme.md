@@ -1,7 +1,7 @@
 ### Hi there 👋 Nice to see u.
 
-- 😄 My name is: yourname ...
-- ⚡ Student id: ...
+- 😄 My name is: ratchanon sayreepong
+- ⚡ Student id: 63365311
 - 🔭 I'm currently studying on Faculty of Engineering.
 -  my favorite subject:Math
 
